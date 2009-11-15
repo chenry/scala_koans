@@ -1,5 +1,3 @@
-package org.github.scala
-
 import org.junit._
 import Assert._
 
