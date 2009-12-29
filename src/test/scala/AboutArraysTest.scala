@@ -28,8 +28,4 @@ class AboutArraysTest{
 	a(0) = "1"
 	assertEquals("Should be 1", "2", a(0))
     }
-
-
 }
-
-
